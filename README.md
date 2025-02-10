@@ -1,2 +1,2 @@
 # BioinformaticsMIPT
-5 semester bioinformatics hw and seminars
+6 semester bioinformatics hw and seminars
